@@ -1,0 +1,710 @@
+2024-08-22 14:25:27,650 - INFO - Game started.
+2024-08-22 14:25:27,650 - INFO - Entered start screen.
+2024-08-22 14:25:28,495 - INFO - New game started.
+2024-08-22 14:25:33,025 - INFO - Player selected Warrior for character 1.
+2024-08-22 14:25:33,646 - INFO - Player selected Warrior for character 2.
+2024-08-22 14:25:34,198 - INFO - Player selected Tank for character 3.
+2024-08-22 14:25:36,429 - INFO - Created character 1: Name=1, Type=Warrior.
+2024-08-22 14:25:36,430 - INFO - Created character 2: Name=1, Type=Warrior.
+2024-08-22 14:25:36,430 - INFO - Created character 3: Name=1, Type=Tank.
+2024-08-22 14:25:38,815 - INFO - 1 attacked AI89 for 22 damage.
+2024-08-22 14:25:39,416 - INFO - AI26 attacked 1 for 12 damage.
+2024-08-22 14:25:42,961 - INFO - 1 attacked AI89 for 17 damage.
+2024-08-22 14:25:43,501 - INFO - AI26 attacked 1 for 9 damage.
+2024-08-22 14:25:45,095 - INFO - 1 attacked AI89 for 8 damage.
+2024-08-22 14:25:45,695 - INFO - AI53 attacked 1 for 6 damage.
+2024-08-22 14:25:47,621 - INFO - 1 attacked AI89 for 10 damage.
+2024-08-22 14:25:48,205 - INFO - AI26 attacked 1 for 7 damage.
+2024-08-22 14:25:49,549 - INFO - 1 attacked AI89 for 10 damage.
+2024-08-22 14:25:50,141 - INFO - AI26 attacked 1 for 14 damage.
+2024-08-22 14:25:51,680 - INFO - 1 attacked AI89 for 11 damage.
+2024-08-22 14:25:52,279 - INFO - AI89 attacked 1 for 13 damage.
+2024-08-22 14:25:53,770 - INFO - 1 attacked AI89 for 12 damage.
+2024-08-22 14:25:54,374 - INFO - AI26 attacked 1 for 4 damage.
+2024-08-22 14:25:55,728 - INFO - 1 leveled up to 2!
+2024-08-22 14:25:55,728 - INFO - 1 attacked AI89 for 18 damage.
+2024-08-22 14:25:56,319 - INFO - AI26 attacked 1 for 7 damage.
+2024-08-22 14:25:58,384 - INFO - 1 attacked AI26 for 4 damage.
+2024-08-22 14:25:58,977 - INFO - AI53 attacked 1 for 12 damage.
+2024-08-22 14:26:01,321 - INFO - 1 attacked AI26 for 7 damage.
+2024-08-22 14:26:01,903 - INFO - AI53 attacked 1 for 15 damage.
+2024-08-22 14:26:04,130 - INFO - 1 attacked AI26 for 14 damage.
+2024-08-22 14:26:04,716 - INFO - AI26 attacked 1 for 0 damage.
+2024-08-22 14:26:06,181 - INFO - 1 attacked AI26 for 8 damage.
+2024-08-22 14:26:06,769 - INFO - AI26 attacked 1 for 2 damage.
+2024-08-22 14:26:08,268 - INFO - 1 attacked AI26 for 16 damage.
+2024-08-22 14:26:08,859 - INFO - AI53 attacked 1 for 6 damage.
+2024-08-22 14:26:10,401 - INFO - 1 attacked AI26 for 12 damage.
+2024-08-22 14:26:10,991 - INFO - AI53 attacked 1 for 14 damage.
+2024-08-22 14:26:14,251 - INFO - 1 attacked AI26 for 11 damage.
+2024-08-22 14:26:14,836 - INFO - AI53 attacked 1 for 11 damage.
+2024-08-22 14:26:16,705 - INFO - 1 attacked AI26 for 12 damage.
+2024-08-22 14:26:17,290 - INFO - AI53 attacked 1 for 4 damage.
+2024-08-22 14:26:21,159 - INFO - 1 leveled up to 3!
+2024-08-22 14:26:21,160 - INFO - 1 attacked AI26 for 11 damage.
+2024-08-22 14:26:21,744 - INFO - AI26 attacked 1 for 5 damage.
+2024-08-22 14:26:23,747 - INFO - 1 attacked AI26 for 11 damage.
+2024-08-22 14:26:24,328 - INFO - AI53 attacked 1 for 6 damage.
+2024-08-22 14:26:25,935 - INFO - 1 attacked AI53 for 13 damage.
+2024-08-22 14:26:26,510 - INFO - AI53 attacked 1 for 7 damage.
+2024-08-22 14:26:28,923 - INFO - 1 attacked AI53 for 21 damage.
+2024-08-22 14:26:29,499 - INFO - AI53 attacked 1 for 0 damage.
+2024-08-22 14:26:31,670 - INFO - 1 attacked AI53 for 24 damage.
+2024-08-22 14:26:32,250 - INFO - AI53 attacked 1 for 9 damage.
+2024-08-22 14:26:34,265 - INFO - 1 attacked AI53 for 19 damage.
+2024-08-22 14:26:34,843 - INFO - AI53 leveled up to 2!
+2024-08-22 14:26:34,844 - INFO - AI53 attacked 1 for 12 damage.
+2024-08-22 14:26:37,256 - INFO - 1 leveled up to 4!
+2024-08-22 14:26:37,257 - INFO - 1 attacked AI53 for 16 damage.
+2024-08-22 14:26:37,836 - INFO - AI53 attacked 1 for 14 damage.
+2024-08-22 14:26:39,986 - INFO - 1 attacked AI53 for 17 damage.
+2024-08-22 14:26:39,993 - INFO - Displaying game over screen. Winner: Player.
+2024-08-22 14:26:41,828 - INFO - Game quit from game over screen.
+2024-08-22 14:33:23,740 - INFO - Game started.
+2024-08-22 14:33:23,742 - INFO - Entered start screen.
+2024-08-22 14:33:24,546 - INFO - New game started.
+2024-08-22 14:33:27,268 - INFO - Game quit during setup screen.
+2024-08-22 14:36:19,066 - INFO - Game started.
+2024-08-22 14:36:19,066 - INFO - Entered start screen.
+2024-08-22 14:36:19,556 - INFO - New game started.
+2024-08-22 14:36:20,959 - INFO - Game quit during setup screen.
+2024-08-22 14:58:27,965 - INFO - Game started.
+2024-08-22 14:58:27,966 - INFO - Entered start screen.
+2024-08-22 14:58:28,801 - INFO - New game started.
+2024-08-22 14:58:33,392 - INFO - Player selected Warrior for character 1.
+2024-08-22 14:58:34,207 - INFO - Player selected Tank for character 2.
+2024-08-22 14:58:34,890 - INFO - Player selected Warrior for character 3.
+2024-08-22 14:58:37,320 - INFO - Created character 1: Name=www, Type=Warrior.
+2024-08-22 14:58:37,321 - INFO - Created character 2: Name=www, Type=Tank.
+2024-08-22 14:58:37,322 - INFO - Created character 3: Name=w, Type=Warrior.
+2024-08-22 15:17:46,727 - INFO - Game started.
+2024-08-22 15:17:46,727 - INFO - Entered start screen.
+2024-08-22 15:17:47,337 - INFO - New game started.
+2024-08-22 15:17:47,338 - INFO - Entered setup screen.
+2024-08-22 15:17:53,025 - INFO - Game started.
+2024-08-22 15:17:53,025 - INFO - Entered start screen.
+2024-08-22 15:17:53,686 - INFO - New game started.
+2024-08-22 15:17:53,687 - INFO - Entered setup screen.
+2024-08-22 15:17:55,503 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:17:56,220 - INFO - Player selected Tank for character 2.
+2024-08-22 15:17:56,920 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:17:59,688 - INFO - Created character 1: Name=1, Type=Warrior.
+2024-08-22 15:17:59,689 - INFO - Created character 2: Name=1, Type=Tank.
+2024-08-22 15:17:59,690 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-22 15:28:34,283 - INFO - Background music started playing.
+2024-08-22 15:28:34,284 - INFO - Game started.
+2024-08-22 15:28:34,284 - INFO - Entered start screen.
+2024-08-22 15:28:36,902 - INFO - New game started.
+2024-08-22 15:28:36,902 - INFO - Entered setup screen.
+2024-08-22 15:28:38,682 - INFO - Game quit during setup screen.
+2024-08-22 15:36:31,790 - INFO - Background music started playing.
+2024-08-22 15:36:35,881 - INFO - Background music started playing.
+2024-08-22 15:36:35,882 - INFO - Game started.
+2024-08-22 15:36:35,882 - INFO - Entered start screen.
+2024-08-22 15:36:36,757 - INFO - New game started.
+2024-08-22 15:36:36,757 - INFO - Entered setup screen.
+2024-08-22 15:36:39,889 - INFO - Player selected Tank for character 3.
+2024-08-22 15:36:40,362 - INFO - Player selected Warrior for character 2.
+2024-08-22 15:36:41,103 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:36:41,105 - INFO - Created character 1: Name=22, Type=Warrior.
+2024-08-22 15:36:41,105 - INFO - Created character 2: Name=22, Type=Warrior.
+2024-08-22 15:36:41,106 - INFO - Created character 3: Name=22, Type=Tank.
+2024-08-22 15:36:43,048 - INFO - 22 attacked AI42 for 24 damage.
+2024-08-22 15:36:43,643 - INFO - AI86 attacked 22 for 6 damage.
+2024-08-22 15:36:46,731 - INFO - 22 attacked AI42 for 19 damage.
+2024-08-22 15:36:47,326 - INFO - AI36 attacked 22 for 0 damage.
+2024-08-22 15:36:49,037 - INFO - 22 attacked AI42 for 23 damage.
+2024-08-22 15:36:49,631 - INFO - AI42 attacked 22 for 17 damage.
+2024-08-22 15:36:51,035 - INFO - 22 attacked AI42 for 12 damage.
+2024-08-22 15:36:51,586 - INFO - AI42 attacked 22 for 21 damage.
+2024-08-22 15:36:53,375 - INFO - 22 attacked AI42 for 11 damage.
+2024-08-22 15:36:53,974 - INFO - AI86 attacked 22 for 13 damage.
+2024-08-22 15:36:55,566 - INFO - 22 attacked AI42 for 10 damage.
+2024-08-22 15:36:56,160 - INFO - AI42 attacked 22 for 9 damage.
+2024-08-22 15:36:57,813 - INFO - 22 leveled up to 2!
+2024-08-22 15:36:57,814 - INFO - 22 attacked AI42 for 17 damage.
+2024-08-22 15:36:58,404 - INFO - AI86 attacked 22 for 6 damage.
+2024-08-22 15:37:00,768 - INFO - 22 attacked AI86 for 20 damage.
+2024-08-22 15:37:01,344 - INFO - AI36 attacked 22 for 6 damage.
+2024-08-22 15:37:02,711 - INFO - 22 attacked AI86 for 18 damage.
+2024-08-22 15:37:03,303 - INFO - AI86 attacked 22 for 8 damage.
+2024-08-22 15:37:04,978 - INFO - 22 attacked AI86 for 21 damage.
+2024-08-22 15:37:05,566 - INFO - AI36 attacked 22 for 10 damage.
+2024-08-22 15:37:07,319 - INFO - 22 attacked AI86 for 8 damage.
+2024-08-22 15:37:07,910 - INFO - AI36 attacked 22 for 4 damage.
+2024-08-22 15:37:10,158 - INFO - 22 attacked AI86 for 15 damage.
+2024-08-22 15:37:10,743 - INFO - AI86 attacked 22 for 4 damage.
+2024-08-22 15:37:12,280 - INFO - 22 leveled up to 3!
+2024-08-22 15:37:12,280 - INFO - 22 attacked AI86 for 10 damage.
+2024-08-22 15:37:12,869 - INFO - AI36 attacked 22 for 4 damage.
+2024-08-22 15:37:15,007 - INFO - 22 attacked AI86 for 11 damage.
+2024-08-22 15:37:15,591 - INFO - AI36 attacked 22 for 1 damage.
+2024-08-22 15:37:17,497 - INFO - 22 attacked AI36 for 14 damage.
+2024-08-22 15:37:18,085 - INFO - AI36 attacked 22 for 11 damage.
+2024-08-22 15:37:19,752 - INFO - 22 attacked AI36 for 10 damage.
+2024-08-22 15:37:20,329 - INFO - AI36 attacked 22 for 2 damage.
+2024-08-22 15:37:21,858 - INFO - 22 attacked AI36 for 13 damage.
+2024-08-22 15:37:22,425 - INFO - AI36 attacked 22 for 11 damage.
+2024-08-22 15:37:24,355 - INFO - 22 attacked AI36 for 8 damage.
+2024-08-22 15:37:24,941 - INFO - AI36 attacked 22 for 11 damage.
+2024-08-22 15:37:27,516 - INFO - 22 attacked AI36 for 10 damage.
+2024-08-22 15:37:28,102 - INFO - AI36 attacked 22 for 0 damage.
+2024-08-22 15:37:32,159 - INFO - 22 attacked AI36 for 18 damage.
+2024-08-22 15:37:32,743 - INFO - AI36 attacked 22 for 0 damage.
+2024-08-22 15:37:34,997 - INFO - 22 attacked AI36 for 4 damage.
+2024-08-22 15:37:35,578 - INFO - AI36 attacked 22 for 0 damage.
+2024-08-22 15:37:36,987 - INFO - 22 leveled up to 4!
+2024-08-22 15:37:36,987 - INFO - 22 attacked AI36 for 14 damage.
+2024-08-22 15:37:37,570 - INFO - AI36 attacked 22 for 12 damage.
+2024-08-22 15:37:39,621 - INFO - 22 attacked AI36 for 9 damage.
+2024-08-22 15:37:39,626 - INFO - Displaying game over screen. Winner: Player.
+2024-08-22 15:37:40,643 - INFO - Quit selected from game over screen.
+2024-08-22 15:39:34,789 - INFO - Background music started playing.
+2024-08-22 15:39:36,703 - INFO - Background music started playing.
+2024-08-22 15:39:36,705 - INFO - Game started.
+2024-08-22 15:39:36,705 - INFO - Entered start screen.
+2024-08-22 15:39:37,652 - INFO - New game started.
+2024-08-22 15:39:37,652 - INFO - Entered setup screen.
+2024-08-22 15:39:38,398 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:39:39,123 - INFO - Player selected Tank for character 2.
+2024-08-22 15:39:39,702 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:39:42,187 - INFO - Created character 1: Name=w, Type=Warrior.
+2024-08-22 15:39:42,188 - INFO - Created character 2: Name=w, Type=Tank.
+2024-08-22 15:39:42,189 - INFO - Created character 3: Name=w, Type=Warrior.
+2024-08-22 15:39:45,077 - INFO - w attacked AI93 for 10 damage.
+2024-08-22 15:39:45,675 - INFO - AI69 attacked w for 15 damage.
+2024-08-22 15:39:48,427 - INFO - w attacked AI93 for 7 damage.
+2024-08-22 15:39:49,020 - INFO - AI93 attacked w for 15 damage.
+2024-08-22 15:39:51,037 - INFO - w attacked AI93 for 11 damage.
+2024-08-22 15:39:51,615 - INFO - AI47 attacked w for 3 damage.
+2024-08-22 15:39:53,675 - INFO - w attacked AI93 for 0 damage.
+2024-08-22 15:39:54,274 - INFO - AI47 attacked w for 6 damage.
+2024-08-22 15:39:56,221 - INFO - w attacked AI93 for 0 damage.
+2024-08-22 15:39:56,817 - INFO - AI93 attacked w for 10 damage.
+2024-08-22 15:40:03,467 - INFO - w attacked AI93 for 0 damage.
+2024-08-22 15:40:04,050 - INFO - AI69 attacked w for 0 damage.
+2024-08-22 15:40:17,245 - INFO - Background music started playing.
+2024-08-22 15:40:17,247 - INFO - Game started.
+2024-08-22 15:40:17,247 - INFO - Entered start screen.
+2024-08-22 15:40:25,787 - INFO - New game started.
+2024-08-22 15:40:25,788 - INFO - Entered setup screen.
+2024-08-22 15:40:26,756 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:40:27,375 - INFO - Player selected Tank for character 2.
+2024-08-22 15:40:27,880 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:40:30,297 - INFO - Created character 1: Name=111, Type=Warrior.
+2024-08-22 15:40:30,298 - INFO - Created character 2: Name=111, Type=Tank.
+2024-08-22 15:40:30,299 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-22 15:40:32,531 - INFO - 111 attacked AI21 for 21 damage.
+2024-08-22 15:40:33,108 - INFO - AI21 attacked 111 for 2 damage.
+2024-08-22 15:40:35,018 - INFO - 111 attacked AI21 for 14 damage.
+2024-08-22 15:40:35,616 - INFO - AI21 attacked 1 for 13 damage.
+2024-08-22 15:40:37,105 - INFO - 111 attacked AI21 for 18 damage.
+2024-08-22 15:40:37,705 - INFO - AI59 attacked 111 for 0 damage.
+2024-08-22 15:40:42,611 - INFO - 111 attacked AI21 for 15 damage.
+2024-08-22 15:40:43,208 - INFO - AI21 attacked 1 for 11 damage.
+2024-08-22 15:41:07,134 - INFO - Background music started playing.
+2024-08-22 15:41:11,021 - INFO - Background music started playing.
+2024-08-22 15:41:11,023 - INFO - Game started.
+2024-08-22 15:41:11,023 - INFO - Entered start screen.
+2024-08-22 15:41:12,043 - INFO - Load game button clicked.
+2024-08-22 15:41:12,043 - INFO - Entered setup screen.
+2024-08-22 15:41:13,188 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:41:13,872 - INFO - Player selected Tank for character 2.
+2024-08-22 15:41:14,394 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:41:17,137 - INFO - Created character 1: Name=1, Type=Warrior.
+2024-08-22 15:41:17,138 - INFO - Created character 2: Name=1, Type=Tank.
+2024-08-22 15:41:17,138 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-22 15:41:20,669 - INFO - 1 attacked AI33 for 10 damage.
+2024-08-22 15:41:21,274 - INFO - AI39 attacked 1 for 14 damage.
+2024-08-22 15:42:55,115 - INFO - Background music started playing.
+2024-08-22 15:42:55,118 - INFO - Game started.
+2024-08-22 15:42:55,118 - INFO - Entered start screen.
+2024-08-22 15:42:56,415 - INFO - Load game button clicked.
+2024-08-22 15:42:56,415 - INFO - Entered setup screen.
+2024-08-22 15:42:57,285 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:43:00,251 - INFO - Player selected Tank for character 2.
+2024-08-22 15:43:00,917 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:43:00,918 - INFO - Created character 1: Name=w, Type=Warrior.
+2024-08-22 15:43:00,919 - INFO - Created character 2: Name=w, Type=Tank.
+2024-08-22 15:43:00,919 - INFO - Created character 3: Name=w, Type=Warrior.
+2024-08-22 15:43:03,888 - INFO - w attacked AI65 for 11 damage.
+2024-08-22 15:43:04,488 - INFO - AI70 attacked w for 0 damage.
+2024-08-22 15:43:07,608 - INFO - w attacked AI65 for 21 damage.
+2024-08-22 15:43:08,205 - INFO - AI65 attacked w for 0 damage.
+2024-08-22 15:43:10,515 - INFO - w attacked AI65 for 20 damage.
+2024-08-22 15:43:11,104 - INFO - AI70 attacked w for 0 damage.
+2024-08-22 15:43:13,254 - INFO - w attacked AI65 for 23 damage.
+2024-08-22 15:43:13,859 - INFO - AI23 attacked w for 0 damage.
+2024-08-22 15:43:16,147 - INFO - w attacked AI65 for 14 damage.
+2024-08-22 15:43:16,750 - INFO - AI65 attacked w for 0 damage.
+2024-08-22 15:43:19,173 - INFO - w attacked AI65 for 0 damage.
+2024-08-22 15:43:19,770 - INFO - AI23 attacked w for 0 damage.
+2024-08-22 15:43:21,424 - INFO - w attacked AI65 for 1 damage.
+2024-08-22 15:43:22,028 - INFO - AI70 attacked w for 2 damage.
+2024-08-22 15:43:23,896 - INFO - w attacked AI65 for 1 damage.
+2024-08-22 15:43:24,491 - INFO - AI65 attacked w for 0 damage.
+2024-08-22 15:43:28,597 - INFO - w attacked AI65 for 0 damage.
+2024-08-22 15:43:29,198 - INFO - AI65 attacked w for 0 damage.
+2024-08-22 15:43:32,315 - INFO - w leveled up to 2!
+2024-08-22 15:43:32,316 - INFO - w attacked AI65 for 22 damage.
+2024-08-22 15:43:32,898 - INFO - AI23 attacked w for 0 damage.
+2024-08-22 15:44:12,070 - INFO - Background music started playing.
+2024-08-22 15:44:12,074 - INFO - Game started.
+2024-08-22 15:44:12,074 - INFO - Entered start screen.
+2024-08-22 15:44:12,736 - INFO - Load game button clicked.
+2024-08-22 15:44:12,736 - INFO - Entered setup screen.
+2024-08-22 15:44:13,566 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:44:19,993 - INFO - Player selected Tank for character 2.
+2024-08-22 15:44:20,710 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:44:21,574 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:44:21,576 - INFO - Created character 1: Name=ww, Type=Warrior.
+2024-08-22 15:44:21,577 - INFO - Created character 2: Name=ww, Type=Tank.
+2024-08-22 15:44:21,577 - INFO - Created character 3: Name=ww	, Type=Warrior.
+2024-08-22 15:44:24,107 - INFO - ww attacked AI63 for 18 damage.
+2024-08-22 15:44:24,709 - INFO - AI23 attacked ww for 14 damage.
+2024-08-22 15:44:26,696 - INFO - ww attacked AI63 for 6 damage.
+2024-08-22 15:44:27,253 - INFO - AI55 attacked ww	 for 17 damage.
+2024-08-22 15:44:29,019 - INFO - ww attacked AI63 for 17 damage.
+2024-08-22 15:44:29,623 - INFO - AI23 attacked ww for 15 damage.
+2024-08-22 15:44:31,232 - INFO - ww attacked AI63 for 16 damage.
+2024-08-22 15:44:31,833 - INFO - AI23 attacked ww for 9 damage.
+2024-08-22 15:44:33,893 - INFO - ww attacked AI63 for 17 damage.
+2024-08-22 15:44:34,491 - INFO - AI23 attacked ww	 for 5 damage.
+2024-08-22 15:44:36,336 - INFO - ww attacked AI63 for 13 damage.
+2024-08-22 15:44:36,936 - INFO - AI23 attacked ww	 for 5 damage.
+2024-08-22 15:44:38,647 - INFO - ww leveled up to 2!
+2024-08-22 15:44:38,648 - INFO - ww attacked AI63 for 21 damage.
+2024-08-22 15:44:39,241 - INFO - AI23 attacked ww	 for 7 damage.
+2024-08-22 15:44:44,285 - INFO - Background music started playing.
+2024-08-22 15:44:44,286 - INFO - Game started.
+2024-08-22 15:44:44,286 - INFO - Entered start screen.
+2024-08-22 15:44:44,719 - INFO - Load game button clicked.
+2024-08-22 15:44:44,719 - INFO - Entered setup screen.
+2024-08-22 15:44:46,643 - INFO - Game quit during setup screen.
+2024-08-22 15:46:32,994 - INFO - Background music started playing.
+2024-08-22 15:46:32,996 - INFO - Game started.
+2024-08-22 15:46:32,996 - INFO - Entered start screen.
+2024-08-22 15:46:33,682 - INFO - Load game button clicked.
+2024-08-22 15:46:33,682 - INFO - Entered setup screen.
+2024-08-22 15:46:36,386 - INFO - Player selected Tank for character 3.
+2024-08-22 15:46:36,923 - INFO - Player selected Warrior for character 2.
+2024-08-22 15:46:37,558 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:46:37,560 - INFO - Created character 1: Name=11, Type=Warrior.
+2024-08-22 15:46:37,561 - INFO - Created character 2: Name=11, Type=Warrior.
+2024-08-22 15:46:37,562 - INFO - Created character 3: Name=11, Type=Tank.
+2024-08-22 15:46:39,112 - INFO - Game saved successfully.
+2024-08-22 15:46:43,367 - INFO - Background music started playing.
+2024-08-22 15:46:43,369 - INFO - Game started.
+2024-08-22 15:46:43,369 - INFO - Entered start screen.
+2024-08-22 15:46:44,069 - INFO - Load game button clicked.
+2024-08-22 15:46:44,069 - INFO - Entered setup screen.
+2024-08-22 15:46:45,775 - INFO - Game quit during setup screen.
+2024-08-22 15:48:49,573 - INFO - Background music started playing.
+2024-08-22 15:48:49,575 - INFO - Game started.
+2024-08-22 15:48:49,575 - INFO - Entered start screen.
+2024-08-22 15:48:50,596 - INFO - New game started.
+2024-08-22 15:48:50,597 - INFO - Entered setup screen.
+2024-08-22 15:48:53,750 - INFO - Player selected Tank for character 3.
+2024-08-22 15:48:54,384 - INFO - Player selected Warrior for character 2.
+2024-08-22 15:48:55,167 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:48:55,168 - INFO - Created character 1: Name=d, Type=Warrior.
+2024-08-22 15:48:55,169 - INFO - Created character 2: Name=d, Type=Warrior.
+2024-08-22 15:48:55,169 - INFO - Created character 3: Name=d, Type=Tank.
+2024-08-22 15:48:55,868 - INFO - Game saved successfully to /Users/wp/Desktop/python/Group Project/Group_Project_完整/save_file.json.
+2024-08-22 15:48:59,769 - INFO - Background music started playing.
+2024-08-22 15:48:59,771 - INFO - Game started.
+2024-08-22 15:48:59,771 - INFO - Entered start screen.
+2024-08-22 15:49:00,355 - INFO - Load game button clicked.
+2024-08-22 15:49:00,356 - INFO - Entered setup screen.
+2024-08-22 15:49:01,724 - INFO - Game quit during setup screen.
+2024-08-22 15:51:12,100 - INFO - Background music started playing.
+2024-08-22 15:51:12,102 - INFO - Game started.
+2024-08-22 15:51:12,102 - INFO - Entered start screen.
+2024-08-22 15:51:13,624 - INFO - Load game button clicked.
+2024-08-22 15:51:13,624 - INFO - Entered setup screen.
+2024-08-22 15:51:14,623 - INFO - Player selected Tank for character 1.
+2024-08-22 15:51:15,282 - INFO - Player selected Warrior for character 2.
+2024-08-22 15:51:15,812 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:51:19,106 - INFO - Created character 1: Name=111, Type=Tank.
+2024-08-22 15:51:19,107 - INFO - Created character 2: Name=111, Type=Warrior.
+2024-08-22 15:51:19,108 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-22 15:51:20,285 - INFO - Game saved successfully to /Users/wp/Desktop/python/Group Project/Group_Project_完整/save_file.json.
+2024-08-22 15:51:23,516 - INFO - Background music started playing.
+2024-08-22 15:51:23,518 - INFO - Game started.
+2024-08-22 15:51:23,518 - INFO - Entered start screen.
+2024-08-22 15:51:24,081 - INFO - Load game button clicked.
+2024-08-22 15:51:24,082 - INFO - Entered setup screen.
+2024-08-22 15:51:26,918 - INFO - Game quit during setup screen.
+2024-08-22 15:51:34,975 - INFO - Background music started playing.
+2024-08-22 15:51:34,978 - INFO - Game started.
+2024-08-22 15:51:34,978 - INFO - Entered start screen.
+2024-08-22 15:51:35,675 - INFO - Load game button clicked.
+2024-08-22 15:51:35,675 - INFO - Entered setup screen.
+2024-08-22 15:51:37,337 - INFO - Game quit during setup screen.
+2024-08-22 15:53:52,725 - INFO - Background music started playing.
+2024-08-22 15:53:52,727 - INFO - Game started.
+2024-08-22 15:53:52,727 - INFO - Entered start screen.
+2024-08-22 15:53:53,115 - INFO - New game started.
+2024-08-22 15:53:53,115 - INFO - Entered setup screen.
+2024-08-22 15:53:55,551 - INFO - Player selected Tank for character 3.
+2024-08-22 15:53:56,130 - INFO - Player selected Warrior for character 2.
+2024-08-22 15:53:56,699 - INFO - Player selected Tank for character 1.
+2024-08-22 15:53:56,700 - INFO - Created character 1: Name=11, Type=Tank.
+2024-08-22 15:53:56,701 - INFO - Created character 2: Name=11, Type=Warrior.
+2024-08-22 15:53:56,701 - INFO - Created character 3: Name=11, Type=Tank.
+2024-08-22 15:53:57,606 - INFO - Game saved successfully to /Users/wp/Desktop/python/Group Project/Group_Project_完整/save_file.json.
+2024-08-22 15:54:00,881 - INFO - Background music started playing.
+2024-08-22 15:54:00,884 - INFO - Game started.
+2024-08-22 15:54:00,884 - INFO - Entered start screen.
+2024-08-22 15:54:01,409 - INFO - Load game button clicked.
+2024-08-22 15:54:03,764 - INFO - 11 attacked AI80 for 8 damage.
+2024-08-22 15:54:04,365 - INFO - AI54 attacked 11 for 9 damage.
+2024-08-22 15:54:05,854 - INFO - 11 attacked AI38 for 21 damage.
+2024-08-22 15:54:06,456 - INFO - AI38 attacked 11 for 12 damage.
+2024-08-22 15:54:07,744 - INFO - 11 attacked AI54 for 13 damage.
+2024-08-22 15:54:08,345 - INFO - AI80 attacked 11 for 8 damage.
+2024-08-22 15:54:13,861 - INFO - 11 attacked AI80 for 16 damage.
+2024-08-22 15:54:14,463 - INFO - AI54 attacked 11 for 14 damage.
+2024-08-22 15:54:17,159 - INFO - 11 attacked AI54 for 10 damage.
+2024-08-22 15:54:17,749 - INFO - AI80 attacked 11 for 15 damage.
+2024-08-22 15:54:20,314 - INFO - 11 attacked AI80 for 7 damage.
+2024-08-22 15:54:20,883 - INFO - AI80 attacked 11 for 11 damage.
+2024-08-22 15:54:22,640 - INFO - 11 attacked AI80 for 0 damage.
+2024-08-22 15:54:23,240 - INFO - AI80 attacked 11 for 17 damage.
+2024-08-22 15:54:25,002 - INFO - 11 attacked AI80 for 1 damage.
+2024-08-22 15:54:25,583 - INFO - AI80 attacked 11 for 15 damage.
+2024-08-22 15:54:28,341 - INFO - Background music started playing.
+2024-08-22 15:54:28,344 - INFO - Game started.
+2024-08-22 15:54:28,344 - INFO - Entered start screen.
+2024-08-22 15:54:28,749 - INFO - Load game button clicked.
+2024-08-22 15:54:32,125 - INFO - Background music started playing.
+2024-08-22 15:54:32,126 - INFO - Game started.
+2024-08-22 15:54:32,126 - INFO - Entered start screen.
+2024-08-22 15:54:32,583 - INFO - New game started.
+2024-08-22 15:54:32,583 - INFO - Entered setup screen.
+2024-08-22 15:54:34,550 - INFO - Game quit during setup screen.
+2024-08-22 15:54:55,857 - INFO - Background music started playing.
+2024-08-22 15:55:01,364 - INFO - Background music started playing.
+2024-08-22 15:55:01,368 - INFO - Game started.
+2024-08-22 15:55:01,368 - INFO - Entered start screen.
+2024-08-22 15:55:02,257 - INFO - Load game button clicked.
+2024-08-22 15:55:04,568 - INFO - 11 attacked AI80 for 22 damage.
+2024-08-22 15:55:05,166 - INFO - AI80 attacked 11 for 11 damage.
+2024-08-22 15:55:06,615 - INFO - 11 attacked AI80 for 25 damage.
+2024-08-22 15:55:07,215 - INFO - AI80 attacked 11 for 8 damage.
+2024-08-22 15:55:08,734 - INFO - 11 attacked AI80 for 22 damage.
+2024-08-22 15:55:09,338 - INFO - AI80 attacked 11 for 21 damage.
+2024-08-22 15:55:10,946 - INFO - 11 attacked AI80 for 15 damage.
+2024-08-22 15:55:11,542 - INFO - AI38 attacked 11 for 20 damage.
+2024-08-22 15:55:13,613 - INFO - 11 attacked AI80 for 12 damage.
+2024-08-22 15:55:14,215 - INFO - AI80 attacked 11 for 15 damage.
+2024-08-22 15:55:16,227 - INFO - 11 leveled up to 2!
+2024-08-22 15:55:16,227 - INFO - 11 attacked AI80 for 13 damage.
+2024-08-22 15:55:16,772 - INFO - AI54 attacked 11 for 8 damage.
+2024-08-22 15:55:20,101 - INFO - 11 attacked AI38 for 21 damage.
+2024-08-22 15:55:20,689 - INFO - AI38 attacked 11 for 17 damage.
+2024-08-22 15:55:22,371 - INFO - 11 attacked AI38 for 20 damage.
+2024-08-22 15:55:22,970 - INFO - AI54 attacked 11 for 14 damage.
+2024-08-22 15:55:25,064 - INFO - 11 attacked AI38 for 20 damage.
+2024-08-22 15:55:25,650 - INFO - AI54 attacked 11 for 10 damage.
+2024-08-22 15:55:28,035 - INFO - 11 attacked AI38 for 32 damage.
+2024-08-22 15:55:28,620 - INFO - AI38 attacked 11 for 21 damage.
+2024-08-22 15:55:31,009 - INFO - 11 attacked AI38 for 25 damage.
+2024-08-22 15:55:31,592 - INFO - AI54 attacked 11 for 19 damage.
+2024-08-22 15:55:33,639 - INFO - 11 leveled up to 2!
+2024-08-22 15:55:33,639 - INFO - 11 attacked AI54 for 22 damage.
+2024-08-22 15:55:34,219 - INFO - AI54 attacked 11 for 16 damage.
+2024-08-22 15:55:36,285 - INFO - 11 attacked AI54 for 24 damage.
+2024-08-22 15:55:36,866 - INFO - AI54 attacked 11 for 6 damage.
+2024-08-22 15:55:39,093 - INFO - 11 attacked AI54 for 0 damage.
+2024-08-22 15:55:39,675 - INFO - AI54 attacked 11 for 5 damage.
+2024-08-22 15:55:41,637 - INFO - 11 attacked AI54 for 6 damage.
+2024-08-22 15:55:42,225 - INFO - AI54 leveled up to 2!
+2024-08-22 15:55:42,225 - INFO - AI54 attacked 11 for 22 damage.
+2024-08-22 15:55:44,400 - INFO - 11 attacked AI54 for 9 damage.
+2024-08-22 15:55:44,986 - INFO - AI54 attacked 11 for 19 damage.
+2024-08-22 15:55:47,509 - INFO - 11 attacked AI54 for 5 damage.
+2024-08-22 15:55:48,083 - INFO - AI54 attacked 11 for 9 damage.
+2024-08-22 15:55:50,014 - INFO - 11 attacked AI54 for 9 damage.
+2024-08-22 15:55:50,602 - INFO - AI54 attacked 11 for 6 damage.
+2024-08-22 15:55:52,701 - INFO - 11 attacked AI54 for 10 damage.
+2024-08-22 15:55:53,284 - INFO - AI54 attacked 11 for 23 damage.
+2024-08-22 15:55:55,035 - INFO - 11 attacked AI54 for 13 damage.
+2024-08-22 15:55:55,619 - INFO - AI54 attacked 11 for 21 damage.
+2024-08-22 15:56:01,569 - INFO - 11 attacked AI54 for 18 damage.
+2024-08-22 15:56:01,576 - INFO - Displaying game over screen. Winner: Player.
+2024-08-22 15:56:03,091 - INFO - Quit selected from game over screen.
+2024-08-22 15:58:13,931 - INFO - Background music started playing.
+2024-08-22 15:58:13,937 - INFO - Game started.
+2024-08-22 15:58:13,937 - INFO - Entered start screen.
+2024-08-22 15:58:14,841 - INFO - New game started.
+2024-08-22 15:58:14,841 - INFO - Entered setup screen.
+2024-08-22 15:58:15,615 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:58:16,258 - INFO - Player selected Tank for character 2.
+2024-08-22 15:58:16,934 - INFO - Player selected Warrior for character 3.
+2024-08-22 15:58:17,618 - INFO - Player selected Warrior for character 1.
+2024-08-22 15:58:20,736 - INFO - Created character 1: Name=1, Type=Warrior.
+2024-08-22 15:58:20,736 - INFO - Created character 2: Name=1, Type=Tank.
+2024-08-22 15:58:20,737 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-22 15:58:27,891 - INFO - 1 attacked AI51 for 23 damage.
+2024-08-22 15:58:28,490 - INFO - AI60 attacked 1 for 12 damage.
+2024-08-22 15:58:34,496 - INFO - 1 attacked AI51 for 35 damage.
+2024-08-22 15:58:35,095 - INFO - AI51 attacked 1 for 26 damage.
+2024-08-22 15:58:36,804 - INFO - 1 attacked AI51 for 26 damage.
+2024-08-22 15:58:37,404 - INFO - AI60 attacked 1 for 0 damage.
+2024-08-22 15:58:39,351 - INFO - 1 leveled up to 2!
+2024-08-22 15:58:39,351 - INFO - 1 attacked AI51 for 27 damage.
+2024-08-22 15:58:39,948 - INFO - AI78 attacked 1 for 3 damage.
+2024-08-22 15:59:04,233 - INFO - Background music started playing.
+2024-08-22 15:59:04,236 - INFO - Game started.
+2024-08-22 15:59:04,236 - INFO - Entered start screen.
+2024-08-22 15:59:05,150 - INFO - Load game button clicked.
+2024-08-22 15:59:08,384 - INFO - 11 attacked AI80 for 17 damage.
+2024-08-22 15:59:08,975 - INFO - AI38 attacked 11 for 15 damage.
+2024-08-22 15:59:16,037 - INFO - 11 attacked AI38 for 13 damage.
+2024-08-22 15:59:16,639 - INFO - AI38 attacked 11 for 22 damage.
+2024-08-22 15:59:19,038 - INFO - 11 attacked AI38 for 8 damage.
+2024-08-22 15:59:19,574 - INFO - AI54 attacked 11 for 16 damage.
+2024-08-22 15:59:42,475 - INFO - 11 attacked AI80 for 12 damage.
+2024-08-22 15:59:43,071 - INFO - AI54 attacked 11 for 26 damage.
+2024-08-22 15:59:44,784 - INFO - 11 attacked AI80 for 19 damage.
+2024-08-22 15:59:45,386 - INFO - AI80 attacked 11 for 19 damage.
+2024-08-22 15:59:46,963 - INFO - 11 attacked AI80 for 23 damage.
+2024-08-22 15:59:47,567 - INFO - AI54 attacked 11 for 23 damage.
+2024-08-22 15:59:49,134 - INFO - 11 attacked AI80 for 25 damage.
+2024-08-22 15:59:49,741 - INFO - AI38 attacked 11 for 14 damage.
+2024-08-22 15:59:51,404 - INFO - 11 attacked AI80 for 16 damage.
+2024-08-22 15:59:51,993 - INFO - AI38 attacked 11 for 19 damage.
+2024-08-22 15:59:53,913 - INFO - 11 attacked AI38 for 12 damage.
+2024-08-22 15:59:54,505 - INFO - AI38 attacked 11 for 26 damage.
+2024-08-22 16:17:48,325 - INFO - Background music started playing.
+2024-08-22 16:17:48,328 - INFO - Game started.
+2024-08-22 16:17:48,329 - INFO - Entered start screen.
+2024-08-22 16:18:03,667 - INFO - New game started.
+2024-08-22 16:18:03,667 - INFO - Entered setup screen.
+2024-08-22 16:18:31,360 - INFO - Game quit during setup screen.
+2024-08-22 16:18:33,590 - INFO - Background music started playing.
+2024-08-22 16:18:33,591 - INFO - Game started.
+2024-08-22 16:18:33,591 - INFO - Entered start screen.
+2024-08-22 16:18:49,345 - INFO - New game started.
+2024-08-22 16:18:49,345 - INFO - Entered setup screen.
+2024-08-22 16:18:50,741 - INFO - Game quit during setup screen.
+2024-08-22 16:19:40,411 - INFO - Background music started playing.
+2024-08-22 16:19:40,414 - INFO - Game started.
+2024-08-22 16:19:40,414 - INFO - Entered start screen.
+2024-08-22 16:19:48,079 - INFO - Game quit from start screen.
+2024-08-22 16:20:07,828 - INFO - Background music started playing.
+2024-08-22 16:20:07,830 - INFO - Game started.
+2024-08-22 16:20:07,830 - INFO - Entered start screen.
+2024-08-22 16:20:12,706 - INFO - Game quit from start screen.
+2024-08-22 23:11:13,504 - INFO - Background music started playing.
+2024-08-22 23:11:13,506 - INFO - Game started.
+2024-08-22 23:11:13,507 - INFO - Entered start screen.
+2024-08-22 23:11:15,228 - INFO - Load game button clicked.
+2024-08-22 23:11:17,776 - INFO - 11 attacked AI80 for 22 damage.
+2024-08-22 23:11:18,359 - INFO - AI38 attacked 11 for 28 damage.
+2024-08-25 18:37:20,957 - INFO - Background music started playing.
+2024-08-25 18:37:20,959 - INFO - Game started.
+2024-08-25 18:37:20,959 - INFO - Entered start screen.
+2024-08-25 18:37:22,184 - INFO - New game started.
+2024-08-25 18:37:22,185 - INFO - Entered setup screen.
+2024-08-25 18:37:22,988 - INFO - Player selected Warrior for character 1.
+2024-08-25 18:37:23,591 - INFO - Player selected Tank for character 2.
+2024-08-25 18:37:24,275 - INFO - Player selected Warrior for character 3.
+2024-08-25 18:37:27,120 - INFO - Created character 1: Name=111, Type=Warrior.
+2024-08-25 18:37:27,121 - INFO - Created character 2: Name=11, Type=Tank.
+2024-08-25 18:37:27,121 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-25 18:37:29,239 - INFO - 111 attacked AI17 for 34 damage.
+2024-08-25 18:37:29,841 - INFO - AI46 attacked 11 for 17 damage.
+2024-08-25 18:38:05,105 - INFO - Background music started playing.
+2024-08-25 18:38:05,107 - INFO - Game started.
+2024-08-25 18:38:05,107 - INFO - Entered start screen.
+2024-08-25 18:38:05,976 - INFO - New game started.
+2024-08-25 18:38:05,976 - INFO - Entered setup screen.
+2024-08-25 18:38:06,676 - INFO - Player selected Warrior for character 1.
+2024-08-25 18:38:07,182 - INFO - Player selected Tank for character 2.
+2024-08-25 18:38:07,882 - INFO - Player selected Warrior for character 3.
+2024-08-25 18:38:10,774 - INFO - Created character 1: Name=111, Type=Warrior.
+2024-08-25 18:38:10,775 - INFO - Created character 2: Name=111, Type=Tank.
+2024-08-25 18:38:10,775 - INFO - Created character 3: Name=1, Type=Warrior.
+2024-08-25 18:38:13,338 - INFO - 111 attacked AI69 for 31 damage.
+2024-08-25 18:38:13,927 - INFO - AI69 attacked 111 for 24 damage.
+2024-08-25 18:38:15,321 - INFO - 111 attacked AI80 for 20 damage.
+2024-08-25 18:38:15,890 - INFO - AI69 attacked 111 for 23 damage.
+2024-08-25 18:38:17,600 - INFO - 1 attacked AI80 for 29 damage.
+2024-08-25 18:38:18,200 - INFO - AI80 attacked 111 for 43 damage.
+2024-08-25 18:38:19,886 - INFO - 1 attacked AI80 for 31 damage.
+2024-08-25 18:38:20,479 - INFO - AI43 attacked 1 for 24 damage.
+2024-08-25 18:38:22,333 - INFO - 1 attacked AI80 for 37 damage.
+2024-08-25 18:38:22,921 - INFO - AI69 attacked 1 for 21 damage.
+2024-08-25 18:38:24,652 - INFO - 111 attacked AI69 for 25 damage.
+2024-08-25 18:38:25,216 - INFO - AI69 attacked 1 for 28 damage.
+2024-08-25 18:38:26,718 - INFO - 111 attacked AI69 for 31 damage.
+2024-08-25 18:38:27,289 - INFO - AI43 attacked 111 for 18 damage.
+2024-08-25 18:38:28,850 - INFO - 111 attacked AI69 for 24 damage.
+2024-08-25 18:38:29,426 - INFO - AI43 attacked 111 for 20 damage.
+2024-08-25 18:38:34,323 - INFO - 1 leveled up to 2!
+2024-08-25 18:38:34,324 - INFO - 1 attacked AI43 for 27 damage.
+2024-08-25 18:38:34,900 - INFO - AI43 attacked 111 for 25 damage.
+2024-08-25 18:38:42,356 - INFO - 111 leveled up to 2!
+2024-08-25 18:38:42,356 - INFO - 111 attacked AI43 for 19 damage.
+2024-08-25 18:38:42,929 - INFO - AI43 leveled up to 2!
+2024-08-25 18:38:42,929 - INFO - AI43 attacked 111 for 21 damage.
+2024-08-25 18:38:45,012 - INFO - 1 attacked AI43 for 31 damage.
+2024-08-25 18:38:45,594 - INFO - AI43 attacked 111 for 21 damage.
+2024-08-25 18:38:47,184 - INFO - 1 attacked AI43 for 24 damage.
+2024-08-25 18:38:47,190 - INFO - Displaying game over screen. Winner: Player.
+2024-08-25 18:38:48,614 - INFO - Quit selected from game over screen.
+2024-08-27 16:09:09,750 - INFO - Background music started playing.
+2024-08-27 16:09:09,752 - INFO - Game started.
+2024-08-27 16:09:09,752 - INFO - Entered start screen.
+2024-08-27 16:09:11,036 - INFO - Load game button clicked.
+2024-08-27 16:09:40,592 - INFO - Background music started playing.
+2024-08-27 16:09:40,595 - INFO - Game started.
+2024-08-27 16:09:40,595 - INFO - Entered start screen.
+2024-08-27 16:09:41,333 - INFO - Load game button clicked.
+2024-08-28 16:15:47,525 - INFO - Background music started playing.
+2024-08-28 16:15:47,532 - INFO - Game started.
+2024-08-28 16:15:47,532 - INFO - Entered start screen.
+2024-08-28 16:42:59,217 - INFO - New game started.
+2024-08-28 16:42:59,222 - INFO - Entered setup screen.
+2024-08-28 16:42:59,584 - INFO - Game quit during setup screen.
+2024-08-29 15:29:23,476 - INFO - Background music started playing.
+2024-08-29 15:29:23,479 - INFO - Game started.
+2024-08-29 15:29:23,479 - INFO - Entered start screen.
+2024-08-29 15:29:25,329 - INFO - Game quit from start screen.
+2024-08-29 15:30:04,343 - INFO - Background music started playing.
+2024-08-29 15:30:04,345 - INFO - Game started.
+2024-08-29 15:30:04,345 - INFO - Entered start screen.
+2024-08-29 15:30:08,156 - INFO - Game quit from start screen.
+2024-08-29 15:43:15,930 - INFO - Background music started playing.
+2024-08-29 15:43:15,933 - INFO - Game started.
+2024-08-29 15:43:15,933 - INFO - Entered start screen.
+2024-08-29 15:43:25,444 - INFO - Game quit from start screen.
+2024-08-29 15:43:32,055 - INFO - Background music started playing.
+2024-08-29 15:43:32,056 - INFO - Game started.
+2024-08-29 15:43:32,057 - INFO - Entered start screen.
+2024-08-29 15:44:01,129 - INFO - New game started.
+2024-08-29 15:44:01,129 - INFO - Entered setup screen.
+2024-08-29 15:44:34,828 - INFO - Player selected Warrior for character 1.
+2024-08-29 15:44:35,720 - INFO - Player selected Warrior for character 2.
+2024-08-29 15:44:42,297 - INFO - Player selected Tank for character 3.
+2024-08-29 15:44:42,298 - INFO - Created character 1: Name=x, Type=Warrior.
+2024-08-29 15:44:42,298 - INFO - Created character 2: Name=y, Type=Warrior.
+2024-08-29 15:44:42,300 - INFO - Created character 3: Name=z, Type=Tank.
+2024-08-29 15:45:18,391 - INFO - x attacked AI37 for 22 damage.
+2024-08-29 15:45:18,977 - INFO - AI50 attacked x for 41 damage.
+2024-08-29 15:45:21,357 - INFO - y attacked AI37 for 26 damage.
+2024-08-29 15:45:21,945 - INFO - AI29 attacked z for 20 damage.
+2024-08-29 15:45:24,000 - INFO - x attacked AI37 for 30 damage.
+2024-08-29 15:45:24,602 - INFO - AI37 attacked y for 36 damage.
+2024-08-29 15:45:26,922 - INFO - x attacked AI37 for 28 damage.
+2024-08-29 15:45:27,510 - INFO - AI29 attacked x for 30 damage.
+2024-08-29 15:45:38,451 - INFO - Game saved successfully to /Users/wp/Desktop/python/Group Project/Group_Project_无敌终极版/save_file.json.
+2024-08-29 15:45:52,764 - INFO - Background music started playing.
+2024-08-29 15:45:52,766 - INFO - Game started.
+2024-08-29 15:45:52,766 - INFO - Entered start screen.
+2024-08-29 15:46:00,274 - INFO - Load game button clicked.
+2024-08-29 15:46:46,063 - INFO - y attacked AI29 for 20 damage.
+2024-08-29 15:46:46,622 - INFO - AI29 attacked z for 25 damage.
+2024-08-29 15:46:48,935 - INFO - y attacked AI29 for 32 damage.
+2024-08-29 15:46:49,508 - INFO - AI29 attacked y for 40 damage.
+2024-08-29 15:46:52,158 - INFO - y attacked AI29 for 25 damage.
+2024-08-29 15:46:52,747 - INFO - AI50 attacked x for 24 damage.
+2024-08-29 15:47:42,949 - INFO - y leveled up to 2!
+2024-08-29 15:47:42,950 - INFO - y attacked AI29 for 23 damage.
+2024-08-29 15:47:43,529 - INFO - AI50 attacked x for 25 damage.
+2024-08-29 15:48:28,480 - INFO - y attacked AI50 for 15 damage.
+2024-08-29 15:48:29,054 - INFO - AI50 attacked x for 36 damage.
+2024-08-29 15:48:32,055 - INFO - y attacked AI50 for 27 damage.
+2024-08-29 15:48:32,631 - INFO - AI50 leveled up to 2!
+2024-08-29 15:48:32,631 - INFO - AI50 attacked z for 29 damage.
+2024-08-29 15:48:36,290 - INFO - y attacked AI50 for 12 damage.
+2024-08-29 15:48:36,867 - INFO - AI50 attacked z for 26 damage.
+2024-08-29 15:48:41,386 - INFO - y attacked AI50 for 15 damage.
+2024-08-29 15:48:41,958 - INFO - AI50 attacked x for 27 damage.
+2024-08-29 15:48:45,881 - INFO - y attacked AI50 for 12 damage.
+2024-08-29 15:48:46,434 - INFO - AI50 leveled up to 3!
+2024-08-29 15:48:46,434 - INFO - AI50 attacked x for 33 damage.
+2024-08-29 15:48:50,503 - INFO - y leveled up to 3!
+2024-08-29 15:48:50,504 - INFO - y attacked AI50 for 19 damage.
+2024-08-29 15:48:50,508 - INFO - Displaying game over screen. Winner: Player.
+2024-08-29 15:49:39,481 - INFO - Quit selected from game over screen.
+2024-08-29 16:06:11,427 - INFO - Background music started playing.
+2024-08-29 16:06:11,430 - INFO - Game started.
+2024-08-29 16:06:11,430 - INFO - Entered start screen.
+2024-08-29 16:06:12,084 - INFO - Load game button clicked.
+2024-08-29 16:06:14,483 - INFO - x attacked AI29 for 38 damage.
+2024-08-29 16:06:15,077 - INFO - AI50 attacked y for 39 damage.
+2024-08-29 16:06:17,185 - INFO - x attacked AI29 for 35 damage.
+2024-08-29 16:06:17,776 - INFO - AI29 attacked x for 39 damage.
+2024-08-29 16:06:19,929 - INFO - y attacked AI29 for 20 damage.
+2024-08-29 16:06:20,502 - INFO - AI50 attacked y for 38 damage.
+2024-08-29 16:06:23,668 - INFO - x leveled up to 2!
+2024-08-29 16:06:23,668 - INFO - x attacked AI29 for 36 damage.
+2024-08-29 16:06:24,231 - INFO - AI50 leveled up to 2!
+2024-08-29 16:06:24,232 - INFO - AI50 attacked x for 28 damage.
+2024-08-29 17:41:36,112 - INFO - Background music started playing.
+2024-08-29 17:41:36,115 - INFO - Game started.
+2024-08-29 17:41:36,115 - INFO - Entered start screen.
+2024-08-29 17:41:37,001 - INFO - New game started.
+2024-08-29 17:41:37,001 - INFO - Entered setup screen.
+2024-08-29 17:41:37,909 - INFO - Player selected Warrior for character 1.
+2024-08-29 17:41:38,588 - INFO - Player selected Tank for character 2.
+2024-08-29 17:41:39,145 - INFO - Player selected Warrior for character 3.
+2024-08-29 17:41:43,035 - INFO - Created character 1: Name=0, Type=Warrior.
+2024-08-29 17:41:43,036 - INFO - Created character 2: Name=0, Type=Tank.
+2024-08-29 17:41:43,037 - INFO - Created character 3: Name=0, Type=Warrior.
+2024-08-29 17:41:46,150 - INFO - 0 attacked AI15 for 38 damage.
+2024-08-29 17:41:46,741 - INFO - AI61 attacked 0 for 23 damage.
+2024-08-29 17:41:48,074 - INFO - 0 attacked AI91 for 22 damage.
+2024-08-29 17:41:48,645 - INFO - AI61 attacked 0 for 32 damage.
+2024-08-29 17:41:51,748 - INFO - 0 attacked AI61 for 21 damage.
+2024-08-29 17:41:52,331 - INFO - AI91 attacked 0 for 28 damage.
+2024-08-29 17:41:53,828 - INFO - 0 attacked AI15 for 32 damage.
+2024-08-29 17:41:54,425 - INFO - AI91 attacked 0 for 32 damage.
+2024-08-29 17:41:57,526 - INFO - 0 leveled up to 2!
+2024-08-29 17:41:57,527 - INFO - 0 attacked AI15 for 43 damage.
+2024-08-29 17:41:58,104 - INFO - AI91 attacked 0 for 33 damage.
+2024-09-17 12:37:13,427 - INFO - Background music started playing.
+2024-09-17 12:37:13,429 - INFO - Game started.
+2024-09-17 12:37:13,429 - INFO - Entered start screen.
+2024-09-17 12:37:17,197 - INFO - New game started.
+2024-09-17 12:37:17,199 - INFO - Entered setup screen.
+2024-09-17 12:37:21,411 - INFO - Player selected Warrior for character 1.
+2024-09-17 12:37:22,918 - INFO - Player selected Tank for character 2.
+2024-09-17 12:37:24,660 - INFO - Player selected Warrior for character 3.
+2024-09-17 12:37:24,661 - INFO - Created character 1: Name=111, Type=Warrior.
+2024-09-17 12:37:24,662 - INFO - Created character 2: Name=111, Type=Tank.
+2024-09-17 12:37:24,662 - INFO - Created character 3: Name=111, Type=Warrior.
+2024-09-17 12:37:47,616 - INFO - 111 attacked AI10 for 30 damage.
+2024-09-17 12:37:48,180 - INFO - AI10 attacked 111 for 28 damage.
+2024-09-17 12:37:50,742 - INFO - 111 attacked AI10 for 39 damage.
+2024-09-17 12:37:51,331 - INFO - AI10 attacked 111 for 11 damage.
+2024-09-17 12:37:53,963 - INFO - 111 leveled up to 2!
+2024-09-17 12:37:53,965 - INFO - 111 attacked AI10 for 33 damage.
+2024-09-17 12:37:54,541 - INFO - AI93 attacked 111 for 24 damage.
+2024-09-17 12:37:59,519 - INFO - 111 attacked AI20 for 45 damage.
+2024-09-17 12:38:00,109 - INFO - AI20 attacked 111 for 34 damage.
+2024-09-17 12:38:03,155 - INFO - 111 attacked AI20 for 32 damage.
+2024-09-17 12:38:03,738 - INFO - AI93 attacked 111 for 23 damage.
+2024-10-14 08:29:37,651 - INFO - Background music started playing.
+2024-10-14 08:29:37,654 - INFO - Game started.
+2024-10-14 08:29:37,654 - INFO - Entered start screen.
+2024-10-14 08:29:44,557 - INFO - Load game button clicked.
+2025-05-05 09:15:07,848 - INFO - Background music started playing.
+2025-05-05 09:15:07,855 - INFO - Game started.
+2025-05-05 09:15:07,855 - INFO - Entered start screen.
+2025-05-05 09:15:11,752 - INFO - Game quit from start screen.
+2025-05-05 09:15:59,038 - INFO - Background music started playing.
+2025-05-05 09:15:59,041 - INFO - Game started.
+2025-05-05 09:15:59,041 - INFO - Entered start screen.
+2025-05-05 09:16:00,498 - INFO - New game started.
+2025-05-05 09:16:00,498 - INFO - Entered setup screen.
+2025-05-05 09:16:04,017 - INFO - Player selected Tank for character 3.
+2025-05-05 09:16:05,184 - INFO - Player selected Warrior for character 2.
+2025-05-05 09:16:05,984 - INFO - Player selected Tank for character 1.
+2025-05-05 09:16:05,986 - INFO - Created character 1: Name=11, Type=Tank.
+2025-05-05 09:16:05,986 - INFO - Created character 2: Name=11, Type=Warrior.
+2025-05-05 09:16:05,987 - INFO - Created character 3: Name=1, Type=Tank.
+2025-05-05 09:16:10,590 - INFO - 11 attacked AI43 for 33 damage.
